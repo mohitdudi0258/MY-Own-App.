@@ -1,0 +1,23 @@
+                                                                                                                Update's Today
+                                   
+
+                                                                                : In this app we add 5 screen :  Home Screen, News Screen,
+                                                                                  Weather Screen, Jokes Screen and Horoscope Screen . 
+
+
+                                                                               In Home Screen We add four buttons
+                                                                                  1. News
+                                                                                  2.Weather
+                                                                                  3.Jokes
+                                                                                  4.Horoscope
+      
+                                                                             In News Screen we add a link of a news website.
+                                                                             In Weather Screen we add fetch Data from a weather website.
+
+                                                                             In Jokes Screen we add a link of a Jokes website.
+                                                                             In Horoscope Screen we add a link of a Horoscope website.
+
+                                                                         
+
+
+ 
